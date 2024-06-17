@@ -1,4 +1,4 @@
-**Super Umario Bros- Super Umario Bros- An AP Computer Science A (AP Java) Final Project**
+#**Super Umario Bros- Super Umario Bros- An AP Computer Science A (AP Java) Final Project**
 
 This game features a basic 2D Platforming level, and a boss once you reach the goalpost. Your goal is to defeat the boss by attacking it 3 times, while it has different "states"/features that make it harder to attack it.
 
