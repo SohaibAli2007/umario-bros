@@ -5,7 +5,7 @@ This game features a basic 2D Platforming level, and a boss once you reach the g
 Super Umario Bros. features programmed collisions, pipes, jumping mechanics, powerups, and a "level design editor" (which will be further explained)
 
 The project was heavily inspired by a Java Tutorial Series on Youtube. I heavily recommend it, please try it out! 
-Link: [](https://www.youtube.com/watch?v=IoZg4dJ4Ksk&list=PL0k-vA0349lFudGAz91Vj3kgcTFj2ZgJO)
+Link: [(https://www.youtube.com/watch?v=IoZg4dJ4Ksk&list=PL0k-vA0349lFudGAz91Vj3kgcTFj2ZgJO)]
 
 **"Level Design Editor"**
 The code features a great way to design your own levels, making it easy and intuitive. All it takes is a pixelated brush on any paint program (I prefer Aseprite) and you're ready to go! Look at the code for more information regarding what color represents what block/item in the game. 
